@@ -1,3 +1,5 @@
+// Line 156 needs to be changed based on your network interface (wlan0, eth0, en0, etc).
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
