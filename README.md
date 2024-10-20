@@ -42,7 +42,7 @@ cd pack-sniffer
 
 ```bash
 
-gcc -o pack_sniffer pack_sniffer.c
+gcc -o pack-sniffer pack-sniffer.c
 
 ```
 
@@ -50,7 +50,7 @@ gcc -o pack_sniffer pack_sniffer.c
 
 ```bash
 
-sudo ./pack_sniffer
+sudo ./pack-sniffer
 
 ```
 
